@@ -2,6 +2,8 @@
 
 This website converts speech from the microphone to text with copy to clipboard function.
 
+To run the project simply type "npm run dev" in terminal
+
 
 
 
